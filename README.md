@@ -1,4 +1,3 @@
-About
 Two different programs that uses concepts of image processing and OCR to identify the characters on a license plate.
 
 Functionality:
@@ -30,6 +29,7 @@ Require packages in SVR program(machine learning):
 9. Pillow
 
 References:
+
 https://randomnerdtutorials.com/car-plate-recognition-system-with-raspberry-pi-and-node-red/
 https://github.com/MicrocontrollersAndMore/OpenCV_3_License_Plate_Recognition_Python
 https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd
